@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Studentofinha
+- 👋 Hi, I’m Sardorbek
 - 👀 I’m interested in Coding and Travelling
-- 🌱 I’m currently working on MERN and MEAN stack
+- 🌱 I’m currently working on MERN and MEAN stack and I have work experience from PHP 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me studentofinha@gmail.com  and my telegram is @tozaboev
 

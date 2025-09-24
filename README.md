@@ -2,7 +2,8 @@
 - 👀 I’m interested in Coding , Learning (more about other programming languages) and Travelling
 - 🌱 I’m currently working on MERN and MEAN stack and I have work experience from PHP 
 - 💞️ I’m looking to collaborate on projects and new team
-- 👨🏻‍🎓 I have graduated INHA University in Tashkent as a Software engineering 
+- 👨🏻‍🎓 I have graduated INHA University in Tashkent as a Software engineering
+- 💼 Currently I work as a full stack developer in OOO TEXNO RASTA MCHJ (serverbor.uz) 
 - 📫 How to reach me studentofinha@gmail.com  and my telegram is @inha_alumni do not be shy to contact with me :)
 
 <!---
